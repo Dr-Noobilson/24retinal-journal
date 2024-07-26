@@ -5,6 +5,5 @@ Original Images
 mured-data
 rfmid-data
 __pycache__
-C-Tran/
 **/models/**
 *.pth
